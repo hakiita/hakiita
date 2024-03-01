@@ -1,3 +1,3 @@
-<h1 style="aling=center;">
+<h1 style="align=center;">
 Hi there 👋
 </h1>
