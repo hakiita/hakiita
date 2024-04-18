@@ -1,8 +1,8 @@
 <h1 align='center'>
-  :snowflake: Hey, I'm hakkita :snowflake:
+  :snowflake: Hey, I'm hakkita :snowflake: 
 </h1>
 <p align='center'>
-  Systems Developer
+  👨🏻‍💻 System Developer 👨🏻‍💻
 </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
