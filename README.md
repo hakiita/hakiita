@@ -1,10 +1,10 @@
-<h1 align='center'>
-  :snowflake: Hey, I'm hakkita :snowflake: 
+<h1 align='left'>
+  Hey, I'm hakkita 
 </h1>
-<p align='center'>
-  👨🏻‍💻 System Developer 👨🏻‍💻
+<p align='left'>
+  System Developer 👨🏻‍💻
 </p>
-<p align='center'>
+<p align='left'>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
