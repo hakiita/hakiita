@@ -5,14 +5,14 @@
 Me chamo Vitor, tenho 21 anos e sou natural de Osasco, SP. Sou um desenvolvedor de sistemas, formado no curso técnico do IFSC de Desensolvimento de Sistemas.
 
 <p align="left">
-    <a href="https://github.com/hakkita?tab=repositories&sort=stargazers">
+    <a href="https://github.com/hakiita?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/hakkita?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/hakkita?tab=followers">
+    <a href="https://github.com/hakiita?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
@@ -102,5 +102,5 @@ Me chamo Vitor, tenho 21 anos e sou natural de Osasco, SP. Sou um desenvolvedor 
     alt="Github Stats"
     height="200px" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=hakkita&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=hakiita&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 />
