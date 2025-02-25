@@ -97,13 +97,10 @@ Me chamo Vitor, tenho 21 anos e sou natural de Osasco, SP. Sou um desenvolvedor 
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
+<img 
     align="left" 
-    alt="GitHub Stats" 
-    height="200" 
+    alt="Github Stats"
+    height="200px" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=hakkita&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
-
+/>
