@@ -60,7 +60,7 @@ Me chamo Vitor, tenho 21 anos e sou natural de Osasco, SP. Sou um desenvolvedor 
 <img 
     align="left" 
     alt="C"
-    title="c" 
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
@@ -76,8 +76,8 @@ Me chamo Vitor, tenho 21 anos e sou natural de Osasco, SP. Sou um desenvolvedor 
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
